@@ -1,7 +1,8 @@
 import os
 import subprocess
 import time
-#from pyTelegramBotAPI import TeleBot
+#from pyTelegramBotAPI 
+import TeleBot
 
 bot = TeleBot("8625781811:AAGymdn1JBdoOj2aba1kpmz9vebH9k3Q0Ko")
 
